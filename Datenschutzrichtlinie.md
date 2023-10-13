@@ -1,4 +1,4 @@
-**Datenschutzrichtlinie für Minty**
+## Datenschutzrichtlinie für Minty
 
 1. **Einleitung**
    - Diese Datenschutzrichtlinie klärt Sie über die Art, den Umfang und den Zweck der Verarbeitung von personenbezogenen Daten durch den Discord-Bot Minty auf. 
