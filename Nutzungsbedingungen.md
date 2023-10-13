@@ -1,4 +1,4 @@
-**Nutzungsbedingungen für Minty**
+## Nutzungsbedingungen für Minty
 
 1. **Einleitung**
    - Mit der Nutzung von Minty, einem Discord-Bot, akzeptieren Sie diese Nutzungsbedingungen vollständig. Wenn Sie diesen Nutzungsbedingungen nicht zustimmen, dürfen Sie Minty nicht verwenden.
