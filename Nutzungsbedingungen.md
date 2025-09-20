@@ -72,8 +72,6 @@ Minty speichert folgende Informationen:
 
 ### 7.1 Bot-Eigentum
 - Minty und seine Features sind unser geistiges Eigentum
-- Quiz-Fragen und Spiel-Inhalte sind urheberrechtlich geschützt
-- Logos, Namen und Branding sind geschützte Marken
 
 ### 7.2 Nutzungsrechte
 - Sie erhalten eine begrenzte Lizenz zur Nutzung
